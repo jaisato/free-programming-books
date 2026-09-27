@@ -1,6 +1,6 @@
 ### Index
 
-* [C#](#C#)
+* [C#](#c)
 * [Other](#other)
 * [Python](#python)
 

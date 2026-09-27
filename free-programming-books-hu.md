@@ -4,7 +4,7 @@
 * [Ada](#ada)
 * [Arduino](#arduino)
 * [C++](#c)
-* [HTML / CSS](#html-css)
+* [HTML / CSS](#html--css)
 * [Java](#java)
 * [Lego Mindstorms](#lego-mindstorms)
 * [LISP](#lisp)

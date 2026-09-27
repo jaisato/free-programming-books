@@ -40,7 +40,7 @@
 * [Scratch](#scratch)
 * [SPIP](#spip)
 * [SQL](#sql)
-* [Systèmes d'exploitation](#systemes-d-exploitation)
+* [Systèmes d'exploitation](#systèmes-dexploitation)
 * [TEI](#TEI)
 * [Vim](#vim)
 

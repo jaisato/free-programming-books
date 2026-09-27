@@ -189,7 +189,7 @@
 * [TypeScript căn bản (ES6)](https://tedu.com.vn/khoa-hoc/khoa-hoc-su-dung-typescript-can-ban-9.html) - TEDU
 
 
-### Workpress
+### WordPress
 
 * [WordPress Nâng Cao](https://www.youtube.com/watch?v=IEH1SB553ks&list=PLl4nkmb3a8w3qzoFaXLsPohofWUMTOHBU) - ThachPham
 * [Xây dựng Plugin Wordpress căn bản](https://www.youtube.com/watch?v=xt5gQoKnAcU&list=PLv6GftO355AucJ4Td8_6h007nQuVJQsPN) - ZendVN

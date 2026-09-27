@@ -1,7 +1,7 @@
 ### Index
 
 * [C](#c)
-* [C++](#c++)
+* [C++](#c-1)
 * [Java](#java)
 * [Python](#python)
 * [Scala](#scala)
